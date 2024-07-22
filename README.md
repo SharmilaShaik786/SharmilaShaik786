@@ -30,7 +30,7 @@ logic and interactions with a database, showcasing strong understanding of PHP f
 - **Technologies Used:** HTML,CSS,JS.
 - **Highlights:** Implemented a secure payment gateway, optimized for high performance.
 
-  ### [Enhancing Aura Visualisation Through Thermal Imaging Using ML Techniques]
+  ### [Enhancing Aura Visualisation Through Thermal Imaging Using ML Techniques] ()
 - **Description:** Method to visualize human auras by analyzing thermal images captured with an Hti thermal camera, using ML Techniques.
 - **Technologies Used:** Python,ML Techniques.
 - **Highlights:**- Utilized HTI thermal camera for capturing high-resolution thermal images, which significantly improved the accuracy of temperature readings.Integrated image processing algorithms to analyze thermal data and provide actionable insights.
